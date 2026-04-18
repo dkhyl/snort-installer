@@ -59,5 +59,5 @@ sudo ./install_snort.sh
 snort -V
 ```
 <p align="center">
-  <img src="https://img.shields.io/badge/⏳_Compilation_Time-15--30_minutes-orange" alt="Compilation Time">
+  <img src="https://img.shields.io/badge/⏳_Compilation_Time-15--20_minutes-orange" alt="Compilation Time">
 </p>
